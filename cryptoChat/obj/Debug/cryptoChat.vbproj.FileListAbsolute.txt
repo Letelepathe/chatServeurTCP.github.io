@@ -1,0 +1,33 @@
+c:\users\habacuc letelepathe\documents\visual studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.exe.config
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.exe
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.pdb
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.xml
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.Form1.resources
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.Resources.resources
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.vbproj.GenerateResource.Cache
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.exe
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.xml
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.pdb
+C:\Users\HABACUC LETELEPATHE\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.client.resources
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.exe.config
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.exe
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.xml
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.pdb
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.exe
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.pdb
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.xml
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.client.resources
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.Form1.resources
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.Resources.resources
+D:\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.vbproj.GenerateResource.Cache
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.exe.config
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.exe
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.xml
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.pdb
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.exe
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.pdb
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\bin\Debug\cryptoChat.xml
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.client.resources
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.Form1.resources
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.Resources.resources
+C:\Users\Lecryptologue\Documents\Visual Studio 2012\Projects\cryptoChat\cryptoChat\obj\Debug\cryptoChat.vbproj.GenerateResource.Cache
